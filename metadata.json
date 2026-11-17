@@ -1,0 +1,8 @@
+{
+  "name": "Krung Travel",
+  "description": "Welcome to Bangkok — cinematic travel booking landing page for riverside teak villas, skyline suites, and curated stays across Bangkok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
